@@ -1,2 +1,0 @@
-# BitLearner
-Educational WebSite
